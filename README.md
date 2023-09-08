@@ -2,7 +2,7 @@
 
 AVA is an Artificial Virtual Assistant, designed to provide the most recent and relevant answers to your queries. AVA can answer questions based on the latest information available on the internet and provide detailed code for any programming language. It uses Google's search engine and other resources to find the best possible answer for your query.
 
-![AVA Logo](logo.png)
+   ### Ava (Artificial Virtual Assistant) :robot:
 
 ## Features
 
