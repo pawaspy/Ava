@@ -1,6 +1,6 @@
-# AVA - Artificial Virtual Assistant
+# Ava - Artificial Virtual Assistant
 
-AVA is an Artificial Virtual Assistant, designed to provide the most recent and relevant answers to your queries. AVA can answer questions based on the latest information available on the internet and provide detailed code for any programming language. It uses Google's search engine and other resources to find the best possible answer for your query.
+Ava is an Artificial Virtual Assistant, designed to provide the most recent and relevant answers to your queries. Ava can answer questions based on the latest information available on the internet and provide detailed code for any programming language. It uses Google's search engine and other resources to find the best possible answer for your query.
 
    ### Ava (Artificial Virtual Assistant) :robot:
 
@@ -12,7 +12,7 @@ AVA is an Artificial Virtual Assistant, designed to provide the most recent and 
 
 ## How it Works
 
-AVA uses the OpenAI API to process the user's question and search the internet for top results related to the question. It then further processes these results and provides the most recent and relevant answer.
+Ava uses the OpenAI API to process the user's question and search the internet for top results related to the question. It then further processes these results and provides the most recent and relevant answer.
 
 
 ## Setup
