@@ -1,2 +1,0 @@
-# Ava
-Artificial Virtual Assistant. 
