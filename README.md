@@ -29,17 +29,3 @@ To use Ava, simply type your question in the input box and click the "Ask Ava" b
 ### 🤝 Contribution
 
 We welcome any contributions to improve Ava. If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
-
-### 🌈 Emojis
-
-* 🤖 - Robot
-* 💡 - Lightbulb
-* ✨ - Sparkles
-* 🔍 - Magnifying glass
-* 💻 - Laptop computer
-* 🌐 - Globe
-* ⚙️ - Gear
-* 🪄 - Magic wand
-* 🤝 - Handshake
-* 🌈 - Rainbow
-make it more beautifuk in markdown code
